@@ -22,6 +22,7 @@ This is a basic TODO list application developed using Flask, a lightweight WSGI 
 - View all tasks
 - Mark tasks as completed
 - Delete tasks
+- Update the existing tasks
 
 ## Installation
 
@@ -36,7 +37,7 @@ This is a basic TODO list application developed using Flask, a lightweight WSGI 
 
     ```sh
     git clone https://github.com/Albinmanuvel/Simple-Flask-Webapp-for-Todo-list.git
-    cd flask-todo-app
+    cd Simple-Flask-Webapp-for-Todo-list
     ```
 
 2. **Create a Virtual Environment**:
