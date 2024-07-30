@@ -35,7 +35,7 @@ This is a basic TODO list application developed using Flask, a lightweight WSGI 
 1. **Clone the Repository**:
 
     ```sh
-    git clone https://github.com/your-username/flask-todo-app.git
+    git clone https://github.com/Albinmanuvel/Simple-Flask-Webapp-for-Todo-list.git
     cd flask-todo-app
     ```
 
